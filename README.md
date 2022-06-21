@@ -33,15 +33,15 @@
 
 #### Section04 【コアNFT】はじめてのNFTスマートコントラクト開発
 - ソースコード  
-  - [MyNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section04/MyNFT.sol "MyNFT.sol")
+  - [MyNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section04/MyNFT.sol "MyNFT.sol")
 
 #### Section05 スマートコントラクトのファンクション実行制御
 - ソースコード1  
-  - [OnlyOwnerMint.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section05/OnlyOwnerMint.sol "OnlyOwnerMint.sol")  
+  - [OnlyOwnerMint.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section05/OnlyOwnerMint.sol "OnlyOwnerMint.sol")  
 - ソースコード2  
-  - [OnlyOwnerMintWithModifier.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section05/OnlyOwnerMintWithModifier.sol "OnlyOwnerMintWithModifier.sol")  
+  - [OnlyOwnerMintWithModifier.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section05/OnlyOwnerMintWithModifier.sol "OnlyOwnerMintWithModifier.sol")  
 - ソースコード3  
-  - [OZOnlyOwnerMint.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section05/OZOnlyOwnerMint.sol "OZOnlyOwnerMint.sol")  
+  - [OZOnlyOwnerMint.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section05/OZOnlyOwnerMint.sol "OZOnlyOwnerMint.sol")  
 
 #### Section06 【分散型ストレージソリューション】IPFS/Filecoin
 - ソースコード  
@@ -49,13 +49,13 @@
 
 #### Section07 【オフチェーンNFT】スマートコントラクト開発
 - ソースコード1  
-  - [OffURIChangeable.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section07/OffURIChangeable.sol "OffURIChangeable.sol")  
+  - [OffURIChangeable.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section07/OffURIChangeable.sol "OffURIChangeable.sol")  
   - 【参考】トランザクション1  
     - [Etherscan transaction](https://rinkeby.etherscan.io/address/0x8e7e1e7a43e2a3f26b046842415aff8f4b30728a "OffURIChangeable transaction")  
   - 【参考】NFT(OpenSea)1  
     - [テスト用OpenSea](https://testnets.opensea.io/collection/offurichangeable-v2 "OffURIChangeable NFT")  
 - ソースコード2  
-  - [OffURIUnchangeable.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section07/OffURIUnchangeable.sol "OffURIUnchangeable.sol")  
+  - [OffURIUnchangeable.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section07/OffURIUnchangeable.sol "OffURIUnchangeable.sol")  
   - 【参考】トランザクション2  
     - [Etherscan transaction](https://rinkeby.etherscan.io/address/0xac8734b211e6661f062a7d95b1bf84c9f1144e8c "OffURIUnchangeable transaction")  
   - 【参考】NFT(OpenSea)2  
@@ -63,11 +63,11 @@
 
 #### Section08 Event発行とIncremental tokenId
 - ソースコード1  
-　　- [EventNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section08/EventNFT.sol "EventNFT.sol")  
+　　- [EventNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section08/EventNFT.sol "EventNFT.sol")  
 　　- 【参考】トランザクション1  
 　　　　- [Etherscan transaction](https://rinkeby.etherscan.io/address/0x31dbf12b020ad39f950b8e5c8447dc81cce5d451#events "EventNFT transaction")
 - ソースコード2  
-  - [CounterNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section08/CounterNFT.sol "CounterNFT.sol")  
+  - [CounterNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section08/CounterNFT.sol "CounterNFT.sol")  
   - 【参考】トランザクション2
     - [Etherscan transaction](https://rinkeby.etherscan.io/address/0xa732c62d0c7361472fa14905b41b55eb09b9e605 "CounterNFT transaction")  
   - 【参考】NFT(OpenSea)2
@@ -76,9 +76,9 @@
 
 #### Section09 NFTの削除と停止ができるスマートコントラクト開発
 - ソースコード1  
-  - [BurnableNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section09/BurnableNFT.sol "BurnableNFT.sol")  
+  - [BurnableNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section09/BurnableNFT.sol "BurnableNFT.sol")  
 - ソースコード2  
-  - [PausableNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section09/PausableNFT.sol "PausableNFT.sol")  
+  - [PausableNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section09/PausableNFT.sol "PausableNFT.sol")  
 
 #### Section10 スマートコントラクトコードの検証とオープンソース化
 - ソースコード
@@ -86,7 +86,7 @@
 
 #### Section11 【オンチェーンNFT】スマートコントラクト開発
 - ソースコード  
-  - [OnURIUnchangeable.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section11/OnURIUnchangeable.sol "OnURIUnchangeable.sol")  
+  - [OnURIUnchangeable.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section11/OnURIUnchangeable.sol "OnURIUnchangeable.sol")  
   - 【参考】トランザクション  
     - [Etherscan transaction](https://rinkeby.etherscan.io/address/0x654f0a4bbadfb78537de15e534562cb37509c44c "OnURIUnchangeable transaction")  
   - 【参考】NFT(OpenSea)  
@@ -94,7 +94,7 @@
 
 #### Section12 【オンチェーン擬似ランダムNFT】スマートコントラクト開発 using keccak256 hash
 - ソースコード  
-  - [OnRandomURIKeccak.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section12/OnRandomURIKeccak.sol "OnRandomURIKeccak.sol")  
+  - [OnRandomURIKeccak.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section12/OnRandomURIKeccak.sol "OnRandomURIKeccak.sol")  
   - 【参考】トランザクション  
     - [Etherscan transaction](https://mumbai.polygonscan.com/address/0x0f8115b50678c89f81453d48815d02b65847b5f3 "OnRandomURIKeccak transaction")  
   - 【参考】NFT(OpenSea)  
@@ -102,11 +102,11 @@
 
 #### Section13 【オラクルソリューション】Chainlink VRF
 - ソースコード  
-  - [ChainlinkVRFDemo.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section13/ChainlinkVRFDemo.sol "ChainlinkVRFDemo.sol")
+  - [ChainlinkVRFDemo.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section13/ChainlinkVRFDemo.sol "ChainlinkVRFDemo.sol")
 
 #### Section14 【オンチェーンランダムNFT】スマートコントラクト開発 using Chainlink VRF
 - ソースコード  
-  - [OnRandomURIOracle.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-code/Section14/OnRandomURIOracle.sol "OnRandomURIOracle.sol"). 
+  - [OnRandomURIOracle.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section14/OnRandomURIOracle.sol "OnRandomURIOracle.sol"). 
   - 【参考】トランザクション  
     - [Etherscan transaction](https://rinkeby.etherscan.io/address/0x65334d7e31064df0d257171a46d38dce0b45d638 "OnRandomURIOracle transaction")  
   - 【参考】NFT(OpenSea)  
