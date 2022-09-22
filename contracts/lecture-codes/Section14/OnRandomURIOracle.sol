@@ -44,13 +44,19 @@ contract OnRandomURIOracle is ERC721URIStorage, VRFConsumerBaseV2 {
      * @dev  Rinkebyネットワーク用VRFコーディネータのコントラクトアドレス
      *       https://docs.chain.link/docs/vrf-contracts/#configurations
      */
-    address vrfCoordinator = 0x6168499c0cFfCaCD319c818142124B7A15E857ab;
+    // for Rinkeby(not supported)
+    // address vrfCoordinator = 0x6168499c0cFfCaCD319c818142124B7A15E857ab;
+    // for Goerli
+    address vrfCoordinator = 0x2Ca8E0C643bDe4C2E08ab1fA0da3401AdAD7734D;
 
     /**
      * @dev  ハッシュ値で、リクエストに対して支払ってもよいガス料金の上限をweiで指定する。
      *       https://docs.chain.link/docs/vrf-contracts/#configurations
      */
-    bytes32 keyHash = 0xd89b2bf150e3b9e13446986e571fb9cab24b13cea0a43ea20a6049a85cc807cc;
+    // for Rinkeby(not supported)
+    // bytes32 keyHash = 0xd89b2bf150e3b9e13446986e571fb9cab24b13cea0a43ea20a6049a85cc807cc;
+    // for Goerli
+    bytes32 keyHash = 0x79d3d8832d904592c0bf9818b621522c988bb8b0c05cdc3b15aea1b6e8db0c15;
 
     /**
      * @dev  コントラクトの fullillRandomWords 関数へのコールバック要求に使用するガス量の制限値
