@@ -56,9 +56,9 @@
 - ソースコード1  
   - [OffURIChangeable.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section07/OffURIChangeable.sol "OffURIChangeable.sol")  
   - 【参考】トランザクション1  
-    - [Etherscan transaction](https://rinkeby.etherscan.io/address/0x8e7e1e7a43e2a3f26b046842415aff8f4b30728a "OffURIChangeable transaction")  
+    - [Etherscan transaction](https://goerli.etherscan.io/address/0x543f095ce8d0938b80e82655c6e9945cc6c01d7d "OffURIChangeable transaction")  
   - 【参考】NFT(OpenSea)1  
-    - [テスト用OpenSea](https://testnets.opensea.io/collection/offurichangeable-v2 "OffURIChangeable NFT")  
+    - [テスト用OpenSea](https://testnets.opensea.io/collection/offurichangeable-bf7414lmuc "OffURIChangeable NFT")  
 - ソースコード2  
   - [OffURIUnchangeable.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section07/OffURIUnchangeable.sol "OffURIUnchangeable.sol")  
   - 【参考】トランザクション2  
