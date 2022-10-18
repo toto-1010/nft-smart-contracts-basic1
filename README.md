@@ -62,9 +62,9 @@
 - ソースコード2  
   - [OffURIUnchangeable.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section07/OffURIUnchangeable.sol "OffURIUnchangeable.sol")  
   - 【参考】トランザクション2  
-    - [Etherscan transaction](https://rinkeby.etherscan.io/address/0xac8734b211e6661f062a7d95b1bf84c9f1144e8c "OffURIUnchangeable transaction")  
+    - [Etherscan transaction](https://goerli.etherscan.io/address/0x0e707bfdcd08b018005a7829869100b60dd96d23 "OffURIUnchangeable transaction")  
   - 【参考】NFT(OpenSea)2  
-    - [テスト用OpenSea](https://testnets.opensea.io/collection/offuriunchangeable-v2 "OffURIUnchangeable NFT")  
+    - [テスト用OpenSea](https://testnets.opensea.io/collection/offuriunchangeable-9tn6chp6gd "OffURIUnchangeable NFT")  
 
 #### Section08 Event発行とIncremental tokenId
 - ソースコード1  
