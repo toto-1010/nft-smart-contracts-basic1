@@ -35,6 +35,10 @@
 #### Section04 【コアNFT】はじめてのNFTスマートコントラクト開発
 - ソースコード  
   - [MyNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section04/MyNFT.sol "MyNFT.sol")
+  - 【参考】トランザクション  
+    - [Etherscan transaction](https://goerli.etherscan.io/tx/0x58d8226554c5b4c925c0228a85d110576e95c2decd9ca0d5dd66b77396a0c7b5　"OnURIUnchangeable transaction")  
+  - 【参考】NFT(OpenSea)  
+    - [テスト用OpenSea](https://testnets.opensea.io/assets/goerli/0x160E6dAE91F5e878A6dd70cDCfc2e0354cFc8bcF/1 "OnURIUnchangeable NFT")  
 
 #### Section05 スマートコントラクトのファンクション実行制御
 - ソースコード1  
