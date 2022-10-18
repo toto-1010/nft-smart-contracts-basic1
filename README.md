@@ -74,9 +74,9 @@
 - ソースコード2  
   - [CounterNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section08/CounterNFT.sol "CounterNFT.sol")  
   - 【参考】トランザクション2
-    - [Etherscan transaction](https://goerli.etherscan.io/address/0x8719bcb066048151650a63eb63cd373d2f0e2bad "CounterNFT transaction")  
+    - [Etherscan transaction](https://goerli.etherscan.io/address/0x6d43f9749eca7c31f98ab4636179a267fef24e89 "CounterNFT transaction")  
   - 【参考】NFT(OpenSea)2
-    - [テスト用OpenSea](https://testnets.opensea.io/collection/counternft-fzld7ua3yw "CounterNFT NFT")
+    - [テスト用OpenSea](https://testnets.opensea.io/collection/counternft-u6tx6dc28u "CounterNFT NFT")
 
 
 #### Section09 NFTの削除と停止ができるスマートコントラクト開発
