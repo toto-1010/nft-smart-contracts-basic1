@@ -70,13 +70,13 @@
 - ソースコード1  
 　　- [EventNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section08/EventNFT.sol "EventNFT.sol")  
 　　- 【参考】トランザクション1  
-　　　　- [Etherscan transaction](https://rinkeby.etherscan.io/address/0x31dbf12b020ad39f950b8e5c8447dc81cce5d451#events "EventNFT transaction")
+　　　　- [Etherscan transaction](https://goerli.etherscan.io/address/0xb9eF202644EC5CfBB73dd5c02827E62A39B57fB1#events "EventNFT transaction")
 - ソースコード2  
   - [CounterNFT.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section08/CounterNFT.sol "CounterNFT.sol")  
   - 【参考】トランザクション2
-    - [Etherscan transaction](https://rinkeby.etherscan.io/address/0xa732c62d0c7361472fa14905b41b55eb09b9e605 "CounterNFT transaction")  
+    - [Etherscan transaction](https://goerli.etherscan.io/address/0x8719bcb066048151650a63eb63cd373d2f0e2bad "CounterNFT transaction")  
   - 【参考】NFT(OpenSea)2
-    - [テスト用OpenSea](https://testnets.opensea.io/collection/counternft-v3 "CounterNFT NFT")
+    - [テスト用OpenSea](https://testnets.opensea.io/collection/counternft-fzld7ua3yw "CounterNFT NFT")
 
 
 #### Section09 NFTの削除と停止ができるスマートコントラクト開発
