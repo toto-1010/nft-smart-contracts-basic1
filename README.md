@@ -93,9 +93,9 @@
 - ソースコード  
   - [OnURIUnchangeable.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section11/OnURIUnchangeable.sol "OnURIUnchangeable.sol")  
   - 【参考】トランザクション  
-    - [Etherscan transaction](https://rinkeby.etherscan.io/address/0x654f0a4bbadfb78537de15e534562cb37509c44c "OnURIUnchangeable transaction")  
+    - [Etherscan transaction](https://goerli.etherscan.io/address/0x4e8e78e233f4c315404e525d5bc56fe98aaa3495 "OnURIUnchangeable transaction")  
   - 【参考】NFT(OpenSea)  
-    - [テスト用OpenSea](https://testnets.opensea.io/collection/onuriunchangeable-v4 "OnURIUnchangeable NFT")  
+    - [テスト用OpenSea](https://testnets.opensea.io/collection/onuriunchangeable-r0pmvalngw "OnURIUnchangeable NFT")  
 
 #### Section12 【オンチェーン擬似ランダムNFT】スマートコントラクト開発 using keccak256 hash
 - ソースコード  
