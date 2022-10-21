@@ -113,9 +113,9 @@
 - ソースコード  
   - [OnRandomURIOracle.sol](https://github.com/toto-1010/nft-smart-contracts-basic1/blob/main/contracts/lecture-codes/Section14/OnRandomURIOracle.sol "OnRandomURIOracle.sol"). 
   - 【参考】トランザクション  
-    - [Etherscan transaction](https://rinkeby.etherscan.io/address/0x65334d7e31064df0d257171a46d38dce0b45d638 "OnRandomURIOracle transaction")  
+    - [Etherscan transaction](https://goerli.etherscan.io/address/0x7279b68f3da8e1cf1a40e497c4a9d681113310e9 "OnRandomURIOracle transaction")  
   - 【参考】NFT(OpenSea)  
-    - [テスト用OpenSea](https://testnets.opensea.io/collection/onrandomurioracle-v4 "OnRandomURIOracle NFT")  
+    - [テスト用OpenSea](https://testnets.opensea.io/collection/onrandomurioracle-fzagl94enj "OnRandomURIOracle NFT")  
 
 
 #### Section15 NFTの権限移譲(Approve)と移転(Transfer)
