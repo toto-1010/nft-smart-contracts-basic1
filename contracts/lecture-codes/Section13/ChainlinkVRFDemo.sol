@@ -30,7 +30,9 @@ contract VRFv2Consumer is VRFConsumerBaseV2 {
     // for Rinkeby(not supported)
     // address vrfCoordinator = 0x6168499c0cFfCaCD319c818142124B7A15E857ab;
     // for Goerli
-    address vrfCoordinator = 0x2Ca8E0C643bDe4C2E08ab1fA0da3401AdAD7734D;
+    // address vrfCoordinator = 0x2Ca8E0C643bDe4C2E08ab1fA0da3401AdAD7734D;
+    // for Mumbai
+    address vrfCoordinator = 0x7a1BaC17Ccc5b313516C5E16fb24f7659aA5ebed;
 
     /**
      * @dev  ハッシュ値で、リクエストに対して支払ってもよいガス料金の上限をweiで指定する。
@@ -39,7 +41,9 @@ contract VRFv2Consumer is VRFConsumerBaseV2 {
     // for Rinkeby(not supported)
     // bytes32 keyHash = 0xd89b2bf150e3b9e13446986e571fb9cab24b13cea0a43ea20a6049a85cc807cc;
     // for Goerli
-    bytes32 keyHash = 0x79d3d8832d904592c0bf9818b621522c988bb8b0c05cdc3b15aea1b6e8db0c15;
+    // bytes32 keyHash = 0x79d3d8832d904592c0bf9818b621522c988bb8b0c05cdc3b15aea1b6e8db0c15;
+    // for Mumbai
+    bytes32 keyHash = 0x4b09e658ed251bcafeebbc69400383d49f344ace09b9576fe248bb02c003fe9f;
 
     /**
      * @dev  コントラクトの fullillRandomWords 関数へのコールバック要求に使用するガス量の制限値
